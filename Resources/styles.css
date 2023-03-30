@@ -1,0 +1,28 @@
+/* body { */
+    /* background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center; */
+    /* color: rgb(188, 244, 188);
+    opacity: 0.3 */
+/* } */
+
+
+.col-md-12.jumbotron.text-center {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-style: solid;
+    color: white
+}   
+
+.col-md-12.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(13, 48, 119);
+    
+}   
+
+
+
+
