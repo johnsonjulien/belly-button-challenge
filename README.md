@@ -6,6 +6,9 @@ In this assignment, you will build an interactive dashboard to explore the Belly
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+## Click the following link to view my interactive charts for belly button information:
+https://johnsonjulien.github.io/belly-button-challenge/
+
 ## Instructions
 
 ## Complete the following steps:
@@ -20,7 +23,7 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-
+![Screenshot of bar chart & drop down menu.](ss_bar_chart.jpg)
 
 ## Create a bubble chart that displays each sample.
 
@@ -34,7 +37,7 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-
+![Screenshot of bubble chart.](ss_bubble_chart.jpg)
 
 Display the sample metadata, i.e., an individual's demographic information.
 
