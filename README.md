@@ -1,6 +1,5 @@
 # belly-button-challenge
 
-![Screenshot of bar chart & drop down menu.](/resources/bacteria.jpg)
 
 ## Background
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
@@ -23,7 +22,6 @@ Use the D3 library to read in samples.json from the URL https://2u-data-curricul
 
 - Use otu_labels as the hovertext for the chart.
 
-![Screenshot of bar chart & drop down menu.](/resources/ss_bar_chart.jpg)
 
 ## Create a bubble chart that displays each sample.
 
@@ -37,7 +35,6 @@ Use the D3 library to read in samples.json from the URL https://2u-data-curricul
 
 - Use otu_labels for the text values.
 
-![Screenshot of bubble chart.](/resources/ss_bubble_chart.jpg)
 
 ## Display the sample metadata, i.e., an individual's demographic information.
 
