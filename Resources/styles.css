@@ -20,8 +20,14 @@
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgb(13, 48, 119);
-    
 }   
+
+#gauge {
+    width: "500";
+    height: "333";
+    background-image:"http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg";
+    alt: "bacteria";
+}
 
 
 
